@@ -8,8 +8,8 @@ This repository showcases my completed and ongoing work from the mandatory Commo
 | Project | Description | Status | Grade |
 | :--- | :--- | :--- | :--- |
 | **[[libft](https://github.com/thiagoqueir0z/libft)]** | Reimplementing essential standard C library functions (**libc**) from scratch. | **Complete**✅ | **125/100** |
-| **[ft_printf]** | Designing and coding a custom version of the variadic `printf` function. | **Upcoming💡** | **N/A** |
-| **[get_next_line]** | Developing an efficient function to read a line from any file descriptor. | **In Progress⏳** | **N/A** |
+| **[ft_printf]** | Designing and coding a custom version of the variadic `printf` function. | **In Progress⏳** | **N/A** |
+| **[[get_next_line](https://github.com/thiagoqueir0z/get_next_line)]** | Developing an efficient function to read a line from any file descriptor. | **Complete**✅ | **125/100** |
 | **[[Born2beroot](https://github.com/thiagoqueir0z/42-born2beroot)]** | Configuring a secure **Debian** server, including **LVM** setup, **SSH**, **UFW**, and **Sudo** security. | **Complete**✅ | **110/100** |
 | **[Push_Swap]** | Sorting data on two stacks using the minimal set of allowed operations. | **Upcoming💡** | **N/A** |
 | **[FdF]** | Wireframe model representation of a **3D landscape** using the **minilibx** graphical library. | **Upcoming💡** | **N/A** |
